@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkvue3_cli"]=self["webpackChunkvue3_cli"]||[]).push([[594],{603:function(u,n,e){e.r(n),e.d(n,{default:function(){return f}});var t=e(6768);const a={class:"about"},c=(0,t.Lk)("h1",null,"This is an about page",-1),r=[c];function s(u,n){return(0,t.uX)(),(0,t.CE)("div",a,r)}var i=e(1241);const l={},o=(0,i.A)(l,[["render",s]]);var f=o}}]);
